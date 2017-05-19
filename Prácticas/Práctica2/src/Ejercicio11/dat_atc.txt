@@ -1,0 +1,132 @@
+NUMERO DE THREADS: 1
+Tamaño: 1000 . Tiempo: 0.002030 s.
+Tamaño: 2000 . Tiempo: 0.006571 s.
+Tamaño: 3000 . Tiempo: 0.014147 s.
+Tamaño: 4000 . Tiempo: 0.024561 s.
+Tamaño: 5000 . Tiempo: 0.037972 s.
+Tamaño: 6000 . Tiempo: 0.054089 s.
+Tamaño: 7000 . Tiempo: 0.073375 s.
+Tamaño: 8000 . Tiempo: 0.095317 s.
+Tamaño: 9000 . Tiempo: 0.120102 s.
+Tamaño: 10000 . Tiempo: 0.148328 s.
+NUMERO DE THREADS: 2
+Tamaño: 1000 . Tiempo: 0.002133 s.
+Tamaño: 2000 . Tiempo: 0.006701 s.
+Tamaño: 3000 . Tiempo: 0.013100 s.
+Tamaño: 4000 . Tiempo: 0.019537 s.
+Tamaño: 5000 . Tiempo: 0.028784 s.
+Tamaño: 6000 . Tiempo: 0.038036 s.
+Tamaño: 7000 . Tiempo: 0.050578 s.
+Tamaño: 8000 . Tiempo: 0.062072 s.
+Tamaño: 9000 . Tiempo: 0.077531 s.
+Tamaño: 10000 . Tiempo: 0.091489 s.
+NUMERO DE THREADS: 3
+Tamaño: 1000 . Tiempo: 0.003096 s.
+Tamaño: 2000 . Tiempo: 0.007442 s.
+Tamaño: 3000 . Tiempo: 0.012364 s.
+Tamaño: 4000 . Tiempo: 0.019441 s.
+Tamaño: 5000 . Tiempo: 0.026106 s.
+Tamaño: 6000 . Tiempo: 0.034540 s.
+Tamaño: 7000 . Tiempo: 0.044299 s.
+Tamaño: 8000 . Tiempo: 0.053933 s.
+Tamaño: 9000 . Tiempo: 0.067500 s.
+Tamaño: 10000 . Tiempo: 0.077613 s.
+NUMERO DE THREADS: 4
+Tamaño: 1000 . Tiempo: 0.003299 s.
+Tamaño: 2000 . Tiempo: 0.007703 s.
+Tamaño: 3000 . Tiempo: 0.013136 s.
+Tamaño: 4000 . Tiempo: 0.015565 s.
+Tamaño: 5000 . Tiempo: 0.026181 s.
+Tamaño: 6000 . Tiempo: 0.035801 s.
+Tamaño: 7000 . Tiempo: 0.043628 s.
+Tamaño: 8000 . Tiempo: 0.051802 s.
+Tamaño: 9000 . Tiempo: 0.060962 s.
+Tamaño: 10000 . Tiempo: 0.070973 s.
+NUMERO DE THREADS: 5
+Tamaño: 1000 . Tiempo: 0.003451 s.
+Tamaño: 2000 . Tiempo: 0.007928 s.
+Tamaño: 3000 . Tiempo: 0.013376 s.
+Tamaño: 4000 . Tiempo: 0.016401 s.
+Tamaño: 5000 . Tiempo: 0.026098 s.
+Tamaño: 6000 . Tiempo: 0.026868 s.
+Tamaño: 7000 . Tiempo: 0.041123 s.
+Tamaño: 8000 . Tiempo: 0.045000 s.
+Tamaño: 9000 . Tiempo: 0.058941 s.
+Tamaño: 10000 . Tiempo: 0.071325 s.
+NUMERO DE THREADS: 6
+Tamaño: 1000 . Tiempo: 0.003810 s.
+Tamaño: 2000 . Tiempo: 0.005423 s.
+Tamaño: 3000 . Tiempo: 0.013473 s.
+Tamaño: 4000 . Tiempo: 0.014690 s.
+Tamaño: 5000 . Tiempo: 0.027880 s.
+Tamaño: 6000 . Tiempo: 0.030720 s.
+Tamaño: 7000 . Tiempo: 0.045463 s.
+Tamaño: 8000 . Tiempo: 0.048363 s.
+Tamaño: 9000 . Tiempo: 0.062870 s.
+Tamaño: 10000 . Tiempo: 0.072339 s.
+NUMERO DE THREADS: 7
+Tamaño: 1000 . Tiempo: 0.003695 s.
+Tamaño: 2000 . Tiempo: 0.007863 s.
+Tamaño: 3000 . Tiempo: 0.014478 s.
+Tamaño: 4000 . Tiempo: 0.021871 s.
+Tamaño: 5000 . Tiempo: 0.027444 s.
+Tamaño: 6000 . Tiempo: 0.032318 s.
+Tamaño: 7000 . Tiempo: 0.046763 s.
+Tamaño: 8000 . Tiempo: 0.050348 s.
+Tamaño: 9000 . Tiempo: 0.064798 s.
+Tamaño: 10000 . Tiempo: 0.068773 s.
+NUMERO DE THREADS: 8
+Tamaño: 1000 . Tiempo: 0.003868 s.
+Tamaño: 2000 . Tiempo: 0.006222 s.
+Tamaño: 3000 . Tiempo: 0.014881 s.
+Tamaño: 4000 . Tiempo: 0.020496 s.
+Tamaño: 5000 . Tiempo: 0.031056 s.
+Tamaño: 6000 . Tiempo: 0.034529 s.
+Tamaño: 7000 . Tiempo: 0.046978 s.
+Tamaño: 8000 . Tiempo: 0.051886 s.
+Tamaño: 9000 . Tiempo: 0.070757 s.
+Tamaño: 10000 . Tiempo: 0.078050 s.
+NUMERO DE THREADS: 9
+Tamaño: 1000 . Tiempo: 0.003987 s.
+Tamaño: 2000 . Tiempo: 0.008610 s.
+Tamaño: 3000 . Tiempo: 0.016056 s.
+Tamaño: 4000 . Tiempo: 0.021554 s.
+Tamaño: 5000 . Tiempo: 0.027407 s.
+Tamaño: 6000 . Tiempo: 0.038316 s.
+Tamaño: 7000 . Tiempo: 0.052400 s.
+Tamaño: 8000 . Tiempo: 0.051874 s.
+Tamaño: 9000 . Tiempo: 0.077786 s.
+Tamaño: 10000 . Tiempo: 0.087059 s.
+NUMERO DE THREADS: 10
+Tamaño: 1000 . Tiempo: 0.004259 s.
+Tamaño: 2000 . Tiempo: 0.010375 s.
+Tamaño: 3000 . Tiempo: 0.016583 s.
+Tamaño: 4000 . Tiempo: 0.022878 s.
+Tamaño: 5000 . Tiempo: 0.027761 s.
+Tamaño: 6000 . Tiempo: 0.044206 s.
+Tamaño: 7000 . Tiempo: 0.052446 s.
+Tamaño: 8000 . Tiempo: 0.058812 s.
+Tamaño: 9000 . Tiempo: 0.077504 s.
+Tamaño: 10000 . Tiempo: 0.085849 s.
+NUMERO DE THREADS: 11
+Tamaño: 1000 . Tiempo: 0.002584 s.
+Tamaño: 2000 . Tiempo: 0.011591 s.
+Tamaño: 3000 . Tiempo: 0.017476 s.
+Tamaño: 4000 . Tiempo: 0.024742 s.
+Tamaño: 5000 . Tiempo: 0.028726 s.
+Tamaño: 6000 . Tiempo: 0.046911 s.
+Tamaño: 7000 . Tiempo: 0.052251 s.
+Tamaño: 8000 . Tiempo: 0.055743 s.
+Tamaño: 9000 . Tiempo: 0.079301 s.
+Tamaño: 10000 . Tiempo: 0.092586 s.
+NUMERO DE THREADS: 12
+Tamaño: 1000 . Tiempo: 0.004850 s.
+Tamaño: 2000 . Tiempo: 0.011904 s.
+Tamaño: 3000 . Tiempo: 0.016696 s.
+Tamaño: 4000 . Tiempo: 0.024229 s.
+Tamaño: 5000 . Tiempo: 0.025462 s.
+Tamaño: 6000 . Tiempo: 0.040971 s.
+Tamaño: 7000 . Tiempo: 0.046333 s.
+Tamaño: 8000 . Tiempo: 0.062533 s.
+Tamaño: 9000 . Tiempo: 0.069567 s.
+Tamaño: 10000 . Tiempo: 0.089983 s.

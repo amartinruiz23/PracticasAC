@@ -1,0 +1,18 @@
+DNI
+75577413
+Apellidos 	Columna1 	Nombre 	login 	Clave o password
+Martí­n
+	Antonio 	E1estudiante13 	fmpffgpdah
+
+sudo openconnect vpn2.ugr.es
+
+
+ssh E1estudiante13@atcgrid.ugr.es
+sftp E1estudiante13@atcgrid.ugr.es
+
+Ejecutable:
+echo './ejecutable' | qsub -q ac
+
+Script:
+
+qsub script.sh -q ac
